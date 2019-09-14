@@ -1,2 +1,6 @@
 # Test-Arkademy
-Source Code 
+###### berupa folder project Java <h6>
+###### Pengerjaan Jawaban dengan menggunakan Java versi jdk 12.0 <h6> IDE: ItelliJ IDEA <h6>
+###### Open Itellij dan Create Project, Create class berupa soal-soal, code jawaban soal dan shortcut Shift+F10 untuk Run code <h6>
+### Kegunaan Json pada REST API <h4>
+##### yaitu <h6>
